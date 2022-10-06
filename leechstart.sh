@@ -8,5 +8,5 @@ cp config_sample.env config.env
 echo yes | sudo docker container prune
 echo yes | sudo docker image prune -a
 sudo dockerd
-sudo docker build . -t mirror-bot
-sudo docker run -p 80:80 mirror-bot
+sudo docker build . -t tlx
+sudo docker run -p 52:52 tlx
