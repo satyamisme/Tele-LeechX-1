@@ -1,0 +1,25 @@
+.LOG
+4:13 PM 10/26/2022
+Minor Bug [Split Fix]
+
+MysterySD committed 17 days ago
+ done 
+4:20 PM 10/26/2022
+IMDB Fix [Forgotten Bug]
+
+MysterySD committed 17 days ago
+  done
+
+
+4:25 PM 10/26/2022
+New UI Stats [Minimal Theme]
+ h-code
+MysterySD committed 16 days ago 
+1 parent 30e22a3 commit 8e62fa53e863209721b14c1da3b48fe85f370476
+Showing 1 changed file with 29 additions and 24 deletions.
+
+4:30 PM 10/26/2022
+Minor Fix [ /addpic cmd ]
+ h-code
+MysterySD committed 16 days ago 
+1 parent 8e62fa5 commit 6da5e19bd02d1070245d7e6ad046a62631990023

@@ -11,7 +11,7 @@
 TG_BOT_TOKEN1 = "5533189666:AAEDjtHyhGS4_TMiRwgopX02ARw_KTcech8"  # Create a Bot using @BotFather in Telegram, and get the Telegram API Token.
 APP_ID1 =19987622  # Get this Value from my.telegram.org/apps or Any API Scrapper Bot
 API_HASH1 = "00d42b460cef01c13d97dad1f417194e" # Get this Value from my.telegram.org/apps or Any API Scrapper Bot
-OWNER_ID = 21040638 # ID of the Bot Owner or Controller, He/She can be abled to access bot in Private Chat (PM).
+OWNER_ID =21040638  # ID of the Bot Owner or Controller, He/She can be abled to access bot in Private Chat (PM).
 AUTH_CHANNEL = " -1001845518274" #Add IDs separated by a SPACE (Like : -100xxxxxxxx -100xxxxxxxx -100xxxxxxxx)
 
 ## NON COMPULSORY VARIABLES >>>>>>>>>>
@@ -69,7 +69,7 @@ DATABASE_URL = "" # Put Database URL of PostgreSQL
     ## Change According to your Requirements or Don't Change Anything 
 
 EDIT_SLEEP_TIME_OUT = 10 # Handle FloodWait with This, put 7 to 15 for Optimum Condition 
-MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START = 600 # Check and Cancel Torrent According to Time in sec
+MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START = 1200 # Check and Cancel Torrent According to Time in sec
 SPLIT_SIZE = "" # Only Put if you Need Less MB Files in Bytes
 
 # Vars for the Display Progress >>>>>>>>
@@ -198,7 +198,7 @@ START_URL2 = "" # URL 2 for Button 2
     ## Bot Must Be Admin in all the Channels IDs else will Not Work
     ## If STRING_SESSION Given, Add Telegram Premium Account as Admin in All the Channels IDs you have Put
 
-AUTO_LEECH = "False" # True or False: Only Triggers by URL
+AUTO_LEECH = "True" # True or False: Only Triggers by URL
 LEECH_LOG = "" # Channel ID for Leech LOG ( Single Channel ) 
 EX_LEECH_LOG = "" # Extra Channel IDs Separated By Space, Must Put LEECH_LOG for this Variable to Work
 EXCEP_CHATS = "" # Don't Put Anything Here # Bug # Exception Channel IDs (-100xxxxxx) separated By spaces 
