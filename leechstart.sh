@@ -9,4 +9,4 @@ echo yes | sudo docker container prune
 echo yes | sudo docker image prune -a
 sudo dockerd
 sudo docker build . -t tlx
-sudo docker run -p 52:52 tlx
+sudo docker run -p 53:53 tlx
